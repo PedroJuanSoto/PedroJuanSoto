@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**PedroJuanSoto/PedroJuanSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **PedroJuanSoto/PedroJuanSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on using coding theory for distributed polynomial and matrix computation and also working on applications of computer algebra to other branches of science
 - 🌱 I’m currently learning about different applications of computer algebra to Biology and Neuroscience, the use of coding theory to distributed machine learning and quantum computing
