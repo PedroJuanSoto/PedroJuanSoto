@@ -10,6 +10,6 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on coding theory for distributed function computation, computer algebra projects for polynomial and matrix copmutations, and more generally applications of algebra, combinatorics, and logic to computing and other branches of science
 - 🤔 I’m looking for help with looking for open problems to apply my knowledge to 
 - 💬 Ask me about Coding theory for distributed computing projects, computer algebra projects for polynomial and matrix copmutations, and more generally applications of algebra, combinatorics, and logic to computing and other branches of science
-- 📫 How to reach me: pedro.soto@maths.ox.ac.uk
+- 📫 How to reach me: pedrosoto@vt.edu
 - ⚡ Fun fact: I can play the guitar and love the outdoors 
 
